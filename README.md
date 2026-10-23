@@ -13,6 +13,7 @@ OSINT tools· OpSec · Python · Linux (Arch)
 | [**myosint**](https://github.com/flowcdhome/myosint) | OSINT CLI: usernames on 600+ sites, email checks, auto-detect |
 | [**ghostfox**](https://github.com/flowcdhome/ghostfox) | Privacy-first OSINT browser (Firefox-based): fingerprint, proxy, DNS and CSS control, rofi launcher |
 | [**prosvet**](https://github.com/flowcdhome/prosvet) | DPI-bypass manager: auto-picks a working strategy for your ISP |
+| [**veil**](https://github.com/flowcdhome/veil) | Opsec self-audit: what is exposed about you and how to close it |
 
 ## 🧰 Stack
 
