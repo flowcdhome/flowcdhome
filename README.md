@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm flowcdhome
 
-OSINT tools · Python · Linux (Arch)
+OSINT tools· OpSec · Python · Linux (Arch)
 
 </div>
 
