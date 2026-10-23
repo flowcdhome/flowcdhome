@@ -1,0 +1,20 @@
+<div align="center">
+
+# 👋 Hi, I'm flowcdhome
+
+OSINT tools · Python · Linux (Arch)
+
+</div>
+
+## 🛠️ Projects
+
+| Project | Description |
+|---------|-------------|
+| [**myosint**](https://github.com/flowcdhome/myosint) | OSINT CLI: usernames on 600+ sites, email checks, auto-detect |
+
+## 🧰 Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
