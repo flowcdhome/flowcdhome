@@ -11,6 +11,7 @@ OSINT tools · Python · Linux (Arch)
 | Project | Description |
 |---------|-------------|
 | [**myosint**](https://github.com/flowcdhome/myosint) | OSINT CLI: usernames on 600+ sites, email checks, auto-detect |
+| [**ghostfox**](https://github.com/flowcdhome/ghostfox) | Privacy-first OSINT browser (Firefox-based): fingerprint, proxy, DNS and CSS control, rofi launcher |
 
 ## 🧰 Stack
 
