@@ -6,7 +6,7 @@ OSINT tools· OpSec · Python · Linux (Arch)
 
 </div>
 
-## 🛠️ Projects
+## Projects
 
 | Project | Description |
 |---------|-------------|
@@ -16,7 +16,7 @@ OSINT tools· OpSec · Python · Linux (Arch)
 | [**veil**](https://github.com/flowcdhome/veil) | Opsec self-audit: what is exposed about you and how to close it |
 | [**kestrel**](https://github.com/flowcdhome/kestrel) | Username OSINT with baseline detection, confidence scores and a self-verifying site database |
 
-## 🧰 Stack
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
